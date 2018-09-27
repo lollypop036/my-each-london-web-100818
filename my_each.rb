@@ -1,4 +1,4 @@
-def my_each(array) {do |x|puts x end}
+def my_each(array) {|x|puts x}
 i = array
 yield 
 
