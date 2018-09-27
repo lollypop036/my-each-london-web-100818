@@ -4,7 +4,7 @@ count = 0
 while count < array.length
 count +=1
 
-yield(array[count]) 
+yield(array[count-1]) 
 end
 array
 end
