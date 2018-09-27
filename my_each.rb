@@ -1,5 +1,6 @@
-def my_each(array) {}
+def my_each(array) {puts i}
 
-yield(i) 
+yield (i) 
 
+array
 end
