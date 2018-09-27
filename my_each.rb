@@ -1,6 +1,10 @@
 def my_each(array) {}
-i = array
-yield(i) 
 
+count = 0
+while count < array.length
+count +=1
+
+yield(array) 
+end
 array
 end
