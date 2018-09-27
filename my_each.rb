@@ -1,4 +1,4 @@
-def my_each(array) {|i|puts i}
+def my_each(array) {do |i|puts i end}
 
 yield 
 
