@@ -1,4 +1,4 @@
-def my_each(array) {puts i}
+def my_each(array) {|i|puts i}
 
 yield (i) 
 
